@@ -8,8 +8,8 @@
 ## 0. 내 설정 (이 부분만 사람이 편집)
 
 ```yaml
-owner: 메이커준
-pages_url: https://imakerjun.github.io/ai-newsletter   # 내 GitHub Pages 주소. 저장소 Settings → Pages에서 확인
+owner: 1000
+pages_url: https://cheon-ai.github.io/my-newsletter1   # 내 GitHub Pages 주소. 저장소 Settings → Pages에서 확인
 cadence: 매일 아침 08:00 (Asia/Seoul)
 interests:                      # 관심사 = 탭. 추가/삭제 자유. 2~5개 권장.
   - id: news
