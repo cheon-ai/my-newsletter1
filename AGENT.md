@@ -8,7 +8,7 @@
 ## 0. 내 설정 (이 부분만 사람이 편집)
 
 ```yaml
-owner: 1000
+owner: MSteel
 pages_url: https://cheon-ai.github.io/my-newsletter1   # 내 GitHub Pages 주소. 저장소 Settings → Pages에서 확인
 cadence: 매일 아침 08:00 (Asia/Seoul)
 interests:                      # 관심사 = 탭. 추가/삭제 자유. 2~5개 권장.
